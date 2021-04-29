@@ -1,0 +1,67 @@
+.div1 {
+      background-color:#FCCB1A;
+      width:100%;
+      float:left;
+      height:163px;
+    }
+    
+    .div2 {
+      background-color:#FC7307;
+      width:25%;
+      float:left;
+      height:400px;
+    }
+    
+    .div3 {
+      background-color:#000000;
+      width:50%;
+      float:left;
+      height:400px;
+    }
+    
+    .div4 {
+      background-color:#ff0000;
+      width:25%;
+      float:left;
+      height:400px;
+    }
+    
+    .div5 {
+      background-color:#0000ff;
+      width:100%;
+      float:left;
+      height:163px;
+    }
+      
+    h1 {
+      color:#FF1A29;
+    }
+      
+    p {
+      color:#00CC00;
+    }
+      
+    ul {
+      color:#ffff00;
+    }
+      
+    a:link {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+    }
+  a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+    }
+  a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+    }
+  a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+    }
