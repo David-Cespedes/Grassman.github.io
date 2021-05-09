@@ -1,0 +1,109 @@
+.WholePage {
+      text-align:center;
+    }
+      
+    table.center {
+      margin-left: auto; 
+      margin-right: auto;
+    }
+      
+    .TextColourOrange1 {
+      color: #ff9900;
+      font-size:35px;
+    }
+      
+    .TextColourOrange2 {
+      color: #ff9900;
+      font-size:20px;
+    }
+      
+    .TextColourWhite {
+      color: #ffffff;
+      font-size: 20px;
+    }
+      
+    .button1 {
+      type: button;
+      border: none;
+      background-color: #ff9900;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 30px 120px;
+      cursor: pointer;
+    }
+      
+    .button2 {
+      type: button;
+      border: none;
+      background: "https://www.skulduggerypleasant.co.uk/wp-content/uploads/sites/3/2020/11/SP14-cover-reveal-rectangle-1024x572.jpg";
+      background-color: #000000;
+      color: #000000;
+      font-size: 20px;
+      cursor: pointer;
+    }
+      
+    .button3 {
+      type: button;
+      border: none;
+      background-color: #ff9900;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 30px 120px;
+      cursor: pointer;
+    }
+      
+    .button4 {
+      type: button;
+      border: none;
+      background: "https://www.skulduggerypleasant.co.uk/wp-content/uploads/sites/3/2021/02/SP-WBD-comp-image.jpg";
+      background-color: #000000;
+      color: #000000;
+      font-size: 20px;
+      cursor: pointer;
+    }
+      
+    .button5 {
+      type: button;
+      border: none;
+      background-color: #ff9900;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 30px 120px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+      
+    body {
+      background-color: #000000;
+    }
+    
+    h4 {
+      color:#ffffff;
+      text-align:center;
+    }
+      
+    table {
+      width="25%"
+      text-align:center;
+    }
+      
+    a:link {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+    }
+    a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+    }
+    a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+    }
+    a:active {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+    }
